@@ -1,4 +1,4 @@
-# 200-ai-prompts-for-parrot-test-niche
+# 200 AI Prompts for Parrot Test Niche
 
 Revolutionize your bird training with this extensive collection of 200 unique and engaging AI-generated prompts specifically tailored to the parrot test niche! Perfect for both beginners and experts, 
 
@@ -6,7 +6,7 @@ Revolutionize your bird training with this extensive collection of 200 unique an
 
 | Property | Value |
 |---|---|
-| Records | 3 |
+| Records | 2 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Revolutionize your bird training with this extensive collection of 200 unique an
 ## Sample
 
 ```json
-Keys: title, description, price
+"..."
 ```
 
 ## Usage
